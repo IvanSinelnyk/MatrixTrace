@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixTrace", "MatrixTrace\MatrixTrace.csproj", "{A1821800-1FBF-4C23-9AE7-A87F14CF5158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTraceTests", "MatrixTraceTests\MatrixTraceTests.csproj", "{C21F6AEF-B20A-4B9A-8E0D-34A211B3240E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1821800-1FBF-4C23-9AE7-A87F14CF5158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1821800-1FBF-4C23-9AE7-A87F14CF5158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1821800-1FBF-4C23-9AE7-A87F14CF5158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1821800-1FBF-4C23-9AE7-A87F14CF5158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21F6AEF-B20A-4B9A-8E0D-34A211B3240E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21F6AEF-B20A-4B9A-8E0D-34A211B3240E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21F6AEF-B20A-4B9A-8E0D-34A211B3240E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21F6AEF-B20A-4B9A-8E0D-34A211B3240E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60999BC6-8B52-41F0-9E0A-BCA055D9E96F}
+	EndGlobalSection
+EndGlobal
